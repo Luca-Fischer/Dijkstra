@@ -5,3 +5,5 @@
 *Autor: Luca Fischer*
 
 Dijkstra Algorithmus geschrieben in C#
+
+Aufgabe: Kürzesten Weg zur Root finden

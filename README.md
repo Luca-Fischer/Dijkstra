@@ -2,7 +2,7 @@
 
 # Dijkstra Algorithmus
 
-*Autor: Luca Fischer*
+*Autor: Robin Hoffmann & Luca Fischer*
 
 Dijkstra Algorithmus geschrieben in C#
 
